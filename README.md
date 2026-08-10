@@ -1,6 +1,6 @@
 # Bama RushTok Brand Index
 
-A public dataset documenting **302 brands** that appear in Bama Rush and RushTok content — TikTok, Instagram, YouTube, and news coverage — across the 2025-2026 rush seasons.
+A public dataset documenting **302 brands** that appear in Bama Rush and RushTok content across TikTok, Instagram, YouTube, and news coverage for the 2026 rush season. 
 
 Compiled by [Jessica Malnik](https://jessicamalnik.com) as part of the *Black Friday in August* documentary investigation.
 
@@ -8,7 +8,7 @@ Compiled by [Jessica Malnik](https://jessicamalnik.com) as part of the *Black Fr
 
 ## What is this?
 
-Sorority rush week at the University of Alabama — known as Bama Rush — became one of the most brand-saturated events in American consumer culture after #BamaRush went viral on TikTok. What started as outfit-of-the-day content became a live, real-time showcase for brands ranging from Van Cleef and Arpels to Shein.
+Sorority rush week at the University of Alabama (i.e. known as Bama Rush) became one of the most brand-saturated events in American consumer culture after #BamaRush went viral on TikTok. What started as outfit-of-the-day content became a live, real-time showcase for brands ranging from Van Cleef and Arpels to Shein.
 
 This dataset documents every brand that shows up in that ecosystem: what they sell, which schools they appear at, how they're referenced (organic outfit posts, sponsored activations, OOTD cost breakdowns, local service providers), and whether they're publicly traded.
 
