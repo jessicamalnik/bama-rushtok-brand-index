@@ -4,6 +4,8 @@ A public dataset documenting **302 brands** that appear in Bama Rush and RushTok
 
 Compiled by [Jessica Malnik](https://jessicamalnik.com) as part of the *Black Friday in August* documentary investigation.
 
+**Documentary:** [Black Friday in August](https://www.youtube.com/watch?v=2PcT41WpBpM&t=36s)
+
 ---
 
 ## What is this?
